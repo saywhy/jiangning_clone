@@ -1,0 +1,11 @@
+components 组件测试
+
+一、form表单
+
+校验、校验提示、placeholder提示
+显隐联动、禁用联动
+v-slot插槽作用域
+
+二、dialog弹窗
+
+三、searchAndTable
